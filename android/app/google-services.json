@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132590009186",
+    "firebase_url": "https://photo-album-aa6de.firebaseio.com",
+    "project_id": "photo-album-aa6de",
+    "storage_bucket": "photo-album-aa6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132590009186:android:449e18d66158551bd0ca3b",
+        "android_client_info": {
+          "package_name": "com.kamil_khab.family_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132590009186-d7ucit102o4s6buj1tj688t2p83u21mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamil_khab.family_album",
+            "certificate_hash": "4c1703d855bfbf387408079c8256bfac70ad2839"
+          }
+        },
+        {
+          "client_id": "132590009186-egompbl11lns9aufud8sjb768tf02m4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-maakZqrJp0ShTnQtF896_DJM9_eQ1FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132590009186-egompbl11lns9aufud8sjb768tf02m4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
