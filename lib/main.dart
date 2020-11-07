@@ -9,6 +9,7 @@ void main() async {
 }
 
 class MyApp extends StatelessWidget {
+  // second branch commit comment
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
